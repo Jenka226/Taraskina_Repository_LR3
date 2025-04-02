@@ -3,17 +3,9 @@ using namespace std;
 
 
 
-double numberX(double x ){
+double numberX(double x){
     //разрабатывается Ивановым П. - ветка branch_fun_1
     cin>>x;
-}
-double numberY( ){
-    //разрабатывается Ивановым П. - ветка branch_fun_1
-    
-}
-double numberZ(){
-    //разрабатывается Ивановым П. - ветка branch_fun_1
-    
 }
 double DrobPart(double x,double y, double z)
 {
