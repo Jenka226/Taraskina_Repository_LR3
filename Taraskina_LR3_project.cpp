@@ -11,9 +11,9 @@ double numberY( double y){
     //разрабатывается Ивановым П. - ветка branch_fun_1
     cin>>y;
 }
-double numberZ(){
+double numberZ(double z){
     //разрабатывается Ивановым П. - ветка branch_fun_1
-    
+    cin>>z;
 }
 double DrobPart(double x,double y, double z)
 {
