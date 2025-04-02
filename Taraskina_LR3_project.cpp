@@ -7,9 +7,9 @@ double numberX(double x ){
     //разрабатывается Ивановым П. - ветка branch_fun_1
     cin>>x;
 }
-double numberY( ){
+double numberY( double y){
     //разрабатывается Ивановым П. - ветка branch_fun_1
-    
+    cin>>y;
 }
 double numberZ(){
     //разрабатывается Ивановым П. - ветка branch_fun_1
