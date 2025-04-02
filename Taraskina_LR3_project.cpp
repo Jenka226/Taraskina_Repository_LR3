@@ -25,7 +25,7 @@ double DrobPart(double summ) {
 }
 
 int Okruglenie(double summ) {
-    
+    return static_cast<int>(round(summ));
 }
 
 int main() {
